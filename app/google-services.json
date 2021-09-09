@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "851623547671",
+    "project_id": "tour-guider-78b26",
+    "storage_bucket": "tour-guider-78b26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851623547671:android:d1661798bff7accc455d52",
+        "android_client_info": {
+          "package_name": "edu.uol.mad.textscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851623547671-i8jdsafiastb0tdos9sj5urlkmem5cqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjFVFAm_uOYRbe-WlO3WZo2Twj_oU6xWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851623547671-i8jdsafiastb0tdos9sj5urlkmem5cqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851623547671:android:cdb6a9924005781d455d52",
+        "android_client_info": {
+          "package_name": "edu.uol.mad.tourguider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851623547671-i8jdsafiastb0tdos9sj5urlkmem5cqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjFVFAm_uOYRbe-WlO3WZo2Twj_oU6xWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851623547671-i8jdsafiastb0tdos9sj5urlkmem5cqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
